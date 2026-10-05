@@ -1,0 +1,18 @@
+Git Command 
+------------
+git init 
+Creates a new Git repository in your project 
+git status
+Shows changed, new, or untracked files 
+git add .
+Adds **all changed files** to the staging area 
+git add filename
+Adds a specific file to staging 
+git commit -m "message"
+ Saves staged changes with a message 
+git log
+Shows your previous commits 
+git diff
+Shows the changes you made before staging 
+git diff --staged
+Shows changes that are already staged 
